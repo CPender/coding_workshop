@@ -10,5 +10,5 @@ git commit -m "commit message"
 git push origin master  
 
 - Updating repo on local machine -  
-cd repos
+cd repos  
 git pull
