@@ -9,6 +9,6 @@ git add .
 git commit -m "commit message"   
 git push origin master  
 
-- Pulling updates - 
+- Updating repo on local machine -  
 cd repos
 git pull
