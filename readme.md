@@ -1,4 +1,4 @@
-Starting Jupyter enviroment - 
+Starting Jupyter enviroment -  
 cd repos  
 activate intro  
 jupyter notebook  
